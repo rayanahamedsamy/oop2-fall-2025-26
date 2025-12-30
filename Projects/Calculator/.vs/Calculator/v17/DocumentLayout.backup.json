@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\oop2-fall-2025-26\\oop2-fall-2025-26\\Projects\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6315358-D032-4B87-BD3F-BFDEE794499A}|Calculator\\Calculator.csproj|d:\\oop2-fall-2025-26\\oop2-fall-2025-26\\projects\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6315358-D032-4B87-BD3F-BFDEE794499A}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop2-fall-2025-26\\oop2-fall-2025-26\\Projects\\Calculator\\Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
               "ToolTip": "D:\\oop2-fall-2025-26\\oop2-fall-2025-26\\Projects\\Calculator\\Calculator\\Program.cs",
               "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T07:58:18.432Z",
               "EditorCaption": ""

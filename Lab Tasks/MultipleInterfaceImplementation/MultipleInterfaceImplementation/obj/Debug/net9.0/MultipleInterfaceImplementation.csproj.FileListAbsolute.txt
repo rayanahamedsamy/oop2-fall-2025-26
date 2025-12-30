@@ -1,0 +1,15 @@
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\bin\Debug\net9.0\MultipleInterfaceImplementation.exe
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\bin\Debug\net9.0\MultipleInterfaceImplementation.deps.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\bin\Debug\net9.0\MultipleInterfaceImplementation.runtimeconfig.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\bin\Debug\net9.0\MultipleInterfaceImplementation.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\bin\Debug\net9.0\MultipleInterfaceImplementation.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\MultipleInterfaceImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\MultipleInterfaceImplementation.AssemblyInfoInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\MultipleInterfaceImplementation.AssemblyInfo.cs
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\MultipleInterfaceImplementation.csproj.CoreCompileInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\MultipleInterfaceImplementation.sourcelink.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\MultipleInterfaceImplementation.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\refint\MultipleInterfaceImplementation.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\MultipleInterfaceImplementation.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\MultipleInterfaceImplementation.genruntimeconfig.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\MultipleInterfaceImplementation\MultipleInterfaceImplementation\obj\Debug\net9.0\ref\MultipleInterfaceImplementation.dll

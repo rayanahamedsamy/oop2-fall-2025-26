@@ -1,0 +1,15 @@
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\bin\Debug\net9.0\StudentRecordSystem.exe
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\bin\Debug\net9.0\StudentRecordSystem.deps.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\bin\Debug\net9.0\StudentRecordSystem.runtimeconfig.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\bin\Debug\net9.0\StudentRecordSystem.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\bin\Debug\net9.0\StudentRecordSystem.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\StudentRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\StudentRecordSystem.AssemblyInfoInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\StudentRecordSystem.AssemblyInfo.cs
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\StudentRecordSystem.csproj.CoreCompileInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\StudentRecordSystem.sourcelink.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\StudentRecordSystem.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\refint\StudentRecordSystem.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\StudentRecordSystem.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\StudentRecordSystem.genruntimeconfig.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\StudentRecordSystem\StudentRecordSystem\obj\Debug\net9.0\ref\StudentRecordSystem.dll
